@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ls -mvap
-=======
 ls -mapv
->>>>>>> 22389e84fdc70500fcf0952169265295ed661cf4
