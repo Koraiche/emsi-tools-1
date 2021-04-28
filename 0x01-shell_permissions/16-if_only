@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --from=vagrant -R new_owner:betty  *
