@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 666
+chmod a+X*
